@@ -5,7 +5,7 @@
   <img src="6.png" alt="logo" width="180"  height="auto" />
   <br/>
 
-  <h3><b>Math-Magician</b></h3>
+  <h3><b>PokeApp</b></h3>
   <p>This is a Single Page WebApp (React based) that shows a calculator, with which you can do mathematical calculations.</p>
 
 </div>
