@@ -20,7 +20,7 @@ class Calculator extends React.Component {
     const { total, next, operation } = this.state;
     return (
       <section className="containerCalculator">
-        <div className="calculator-display">
+        <div className="result">
           {total}
           {operation}
           {next}
