@@ -44,7 +44,7 @@ class Calculator extends React.Component {
           <button onClick={this.handleClick} type="button" className="buttonCalculator color-right">+</button>
           <button onClick={this.handleClick} type="button" className="buttonCalculator zero">0</button>
           <button onClick={this.handleClick} type="button" className="buttonCalculator">.</button>
-          <button onClick={this.handleClick} type="button" className="buttonCalculator color-right">=</button>
+          <button onClick={this.handleClick} type="button" className="buttonCalculator color-equal">=</button>
         </div>
       </section>
     );
