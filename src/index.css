@@ -1,3 +1,33 @@
-body {
- box-sizing: border-box;
+body{
+  padding: 0;
+  margin: 0;
+}
+.container-calculator {
+  display: flex;
+  flex-direction: column;
+}
+
+.calc-input{
+  background-color: #5f5f5f;
+  padding: 10px 5px;
+}
+
+.line{
+  display: flex;
+  width: 100vw;
+}
+
+.buttonC{
+  width: 25%;
+  padding: 10px 0px;
+  border: solid 1px #b7b5b5;
+}
+
+.buttonC-exception{
+  width: 50%;
+  border: solid 1px #b7b5b5;
+}
+
+.color{
+  background-color: rgb(255, 68, 0);
 }
