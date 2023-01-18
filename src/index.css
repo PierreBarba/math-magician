@@ -17,7 +17,7 @@
 }
 
 .containerCalculator {
-  width: 80%;
+  width: 500px;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -33,6 +33,7 @@
   background-color: #858694;
   color: white;
   padding-right: 5px;
+  margin: 0px 0px 0px 0px;
 }
 
 .buttonsContainer {
