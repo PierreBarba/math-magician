@@ -38,7 +38,7 @@
 *[math-magician]* a Single Page WebApp (API based) that shows a calculator
 <div align="center">
 
-  <img src="./src/assets/images/pokeapp_wireframe.png" alt="Screenshoot" width="550"  height="auto" />
+  <img src="inprogress..." alt="Screenshoot" width="550"  height="auto" />
   <br/>
 
 </div>
