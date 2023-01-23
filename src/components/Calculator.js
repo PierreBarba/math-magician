@@ -15,31 +15,34 @@ const Calculator = () => {
   const { total, next, operation } = state;
   return (
     <section className="containerCalculator">
-      <div className="result">
-        {total}
-        {operation}
-        {next}
-      </div>
-      <div className="buttonsContainer">
-        <button onClick={handleClick} type="button" className="buttonCalculator">AC</button>
-        <button onClick={handleClick} type="button" className="buttonCalculator">+/-</button>
-        <button onClick={handleClick} type="button" className="buttonCalculator">%</button>
-        <button onClick={handleClick} type="button" className="buttonCalculator color-right">÷</button>
-        <button onClick={handleClick} type="button" className="buttonCalculator">7</button>
-        <button onClick={handleClick} type="button" className="buttonCalculator">8</button>
-        <button onClick={handleClick} type="button" className="buttonCalculator">9</button>
-        <button onClick={handleClick} type="button" className="buttonCalculator color-right">x</button>
-        <button onClick={handleClick} type="button" className="buttonCalculator">4</button>
-        <button onClick={handleClick} type="button" className="buttonCalculator">5</button>
-        <button onClick={handleClick} type="button" className="buttonCalculator">6</button>
-        <button onClick={handleClick} type="button" className="buttonCalculator color-right">-</button>
-        <button onClick={handleClick} type="button" className="buttonCalculator">1</button>
-        <button onClick={handleClick} type="button" className="buttonCalculator">2</button>
-        <button onClick={handleClick} type="button" className="buttonCalculator">3</button>
-        <button onClick={handleClick} type="button" className="buttonCalculator color-right">+</button>
-        <button onClick={handleClick} type="button" className="buttonCalculator zero">0</button>
-        <button onClick={handleClick} type="button" className="buttonCalculator">.</button>
-        <button onClick={handleClick} type="button" className="buttonCalculator color-equal">=</button>
+      <div className="pMath"> Let&apos;s Do Some Math </div>
+      <div className="calculatorDiv">
+        <div className="result">
+          {total}
+          {operation}
+          {next}
+        </div>
+        <div className="buttonsContainer">
+          <button onClick={handleClick} type="button" className="buttonCalculator">AC</button>
+          <button onClick={handleClick} type="button" className="buttonCalculator">+/-</button>
+          <button onClick={handleClick} type="button" className="buttonCalculator">%</button>
+          <button onClick={handleClick} type="button" className="buttonCalculator color-right">÷</button>
+          <button onClick={handleClick} type="button" className="buttonCalculator">7</button>
+          <button onClick={handleClick} type="button" className="buttonCalculator">8</button>
+          <button onClick={handleClick} type="button" className="buttonCalculator">9</button>
+          <button onClick={handleClick} type="button" className="buttonCalculator color-right">x</button>
+          <button onClick={handleClick} type="button" className="buttonCalculator">4</button>
+          <button onClick={handleClick} type="button" className="buttonCalculator">5</button>
+          <button onClick={handleClick} type="button" className="buttonCalculator">6</button>
+          <button onClick={handleClick} type="button" className="buttonCalculator color-right">-</button>
+          <button onClick={handleClick} type="button" className="buttonCalculator">1</button>
+          <button onClick={handleClick} type="button" className="buttonCalculator">2</button>
+          <button onClick={handleClick} type="button" className="buttonCalculator">3</button>
+          <button onClick={handleClick} type="button" className="buttonCalculator color-right">+</button>
+          <button onClick={handleClick} type="button" className="buttonCalculator zero">0</button>
+          <button onClick={handleClick} type="button" className="buttonCalculator">.</button>
+          <button onClick={handleClick} type="button" className="buttonCalculator color-equal">=</button>
+        </div>
       </div>
     </section>
   );
