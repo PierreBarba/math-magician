@@ -19,7 +19,7 @@
 .containerCalculator {
   display: flex;
   flex-direction: row;
-  margin: 62px 0px 0px 0px;
+  margin: 62px 0 0 0;
 }
 
 .result {
@@ -85,62 +85,57 @@
 
 /* navbar page */
 
-nav{
+nav {
   display: flex;
   justify-content: space-between;
   padding: 27px;
 }
 
-.subtitle{
-font-size:xx-large;
+.subtitle {
+  font-size: xx-large;
 }
 
 ul {
   display: flex;
   list-style: none;
-  padding: 17px 0px 0px 0px;
+  padding: 17px 0 0 0;
 }
 
-/* Home page*/
+/* Home page */
 
-.home-title{
+.home-title {
   font-size: x-large;
-  margin: 15px 0px 0px 0px;
+  margin: 15px 0 0 0;
   padding: 18px;
 }
 
 .textSection {
-  margin: 10px 0px 35px 0px;
-  padding: 0px 50px 0px 37px;
+  margin: 10px 0 35px 0;
+  padding: 0 50px 0 37px;
 }
 
-/* calculator page*/
+/* calculator page */
 
-
-.pMath{
+.pMath {
   text-align: justify;
   font-size: x-large;
-  padding: 0px 0px 0px 63px;
+  padding: 0 0 0 63px;
 }
 
-.calculatorDiv{
-  margin: 0px 126px 0px 0px;
+.calculatorDiv {
+  margin: 0 126px 0 0;
 }
 
-/* Quotes page*/
-
-.home-section{
-
-}
+/* Quotes page */
 
 .sentence {
   font-size: unset;
   text-align: center;
-  padding: 10px 0px 0px 23px;
+  padding: 10px 0 0 23px;
   line-height: 39px;
-  margin: 81px 0px 31px 0px;
+  margin: 81px 0 31px 0;
 }
 
-.author{
+.author {
   text-align: center;
 }
