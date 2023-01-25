@@ -6,7 +6,7 @@
   <br/>
 
   <h3><b>Math-Magician</b></h3>
-  <p>This is a Single Page WebApp (React based) that shows a calculator, with which you can do mathematical calculations.</p>
+  <p>This is a Page WebApp (React based) that shows a calculator, with which you can do mathematical calculations.</p>
 
 </div>
 
