@@ -1,0 +1,157 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`anchor Home snapshot 1`] = `
+<section
+  className="containerCalculator"
+>
+  <div
+    className="pMath"
+  >
+     Let's Do Some Math 
+  </div>
+  <div
+    className="calculatorDiv"
+  >
+    <div
+      className="result"
+    />
+    <div
+      className="buttonsContainer"
+    >
+      <button
+        className="buttonCalculator"
+        onClick={[Function]}
+        type="button"
+      >
+        AC
+      </button>
+      <button
+        className="buttonCalculator"
+        onClick={[Function]}
+        type="button"
+      >
+        +/-
+      </button>
+      <button
+        className="buttonCalculator"
+        onClick={[Function]}
+        type="button"
+      >
+        %
+      </button>
+      <button
+        className="buttonCalculator color-right"
+        onClick={[Function]}
+        type="button"
+      >
+        ÷
+      </button>
+      <button
+        className="buttonCalculator"
+        onClick={[Function]}
+        type="button"
+      >
+        7
+      </button>
+      <button
+        className="buttonCalculator"
+        onClick={[Function]}
+        type="button"
+      >
+        8
+      </button>
+      <button
+        className="buttonCalculator"
+        onClick={[Function]}
+        type="button"
+      >
+        9
+      </button>
+      <button
+        className="buttonCalculator color-right"
+        onClick={[Function]}
+        type="button"
+      >
+        x
+      </button>
+      <button
+        className="buttonCalculator"
+        onClick={[Function]}
+        type="button"
+      >
+        4
+      </button>
+      <button
+        className="buttonCalculator"
+        onClick={[Function]}
+        type="button"
+      >
+        5
+      </button>
+      <button
+        className="buttonCalculator"
+        onClick={[Function]}
+        type="button"
+      >
+        6
+      </button>
+      <button
+        className="buttonCalculator color-right"
+        onClick={[Function]}
+        type="button"
+      >
+        -
+      </button>
+      <button
+        className="buttonCalculator"
+        onClick={[Function]}
+        type="button"
+      >
+        1
+      </button>
+      <button
+        className="buttonCalculator"
+        onClick={[Function]}
+        type="button"
+      >
+        2
+      </button>
+      <button
+        className="buttonCalculator"
+        onClick={[Function]}
+        type="button"
+      >
+        3
+      </button>
+      <button
+        className="buttonCalculator color-right"
+        onClick={[Function]}
+        type="button"
+      >
+        +
+      </button>
+      <button
+        className="buttonCalculator zero"
+        onClick={[Function]}
+        type="button"
+      >
+        0
+      </button>
+      <button
+        className="buttonCalculator"
+        onClick={[Function]}
+        type="button"
+      >
+        .
+      </button>
+      <button
+        className="buttonCalculator color-equal"
+        onClick={[Function]}
+        type="button"
+      >
+        =
+      </button>
+    </div>
+  </div>
+</section>
+`;

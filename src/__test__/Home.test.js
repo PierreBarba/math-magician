@@ -3,6 +3,6 @@ import renderer from 'react-test-renderer';
 import Home from '../components/Home';
 
 test('anchor Home snapshot', () => {
-  const tree = renderer.create(<Home />).toJSON();
+  const tree = renderer.create(<Home />);
   expect(tree).toMatchSnapshot();
 });
