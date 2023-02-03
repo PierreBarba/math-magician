@@ -65,7 +65,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- <a href="in progres..." target="_blank" rel="noopener noreferrer">math-magician</a>
+- <a href="https://repository-math-pierre.onrender.com" target="_blank" rel="noopener noreferrer">math-magician</a>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
